@@ -1,0 +1,96 @@
+1. Cree un algoritmo para ver un video en Youtube. Sea lo más especifico posible.
+
+Algoritmo Video de Youtube
+
+1.Inicio
+
+2.Buscar un dispositivo inteligente
+
+3.Si tiene Computadora
+a.Ingresar a Youtube.com
+b.Buscar video de YouTube
+c.reproducir el video de YouTube
+
+4.Sino, si tiene smartphone, o si tiene tablet, o si tiene smart TV
+a.Ingresar a Youtube.com
+b.Buscar video de YouTube
+c.reproducir el video de YouTube
+
+5.Sino, comprar un dispositivo inteligente
+
+6. Si quiere una computadora y tiene el dinero necesario:
+a.Comprar Computadora
+
+
+7.Sino, si quiere un smartphone y tiene el dinero necesario:
+a.Comprar Smartphone
+
+8.Sino, si quiere un Smart TV y tiene el dinero necesario:
+a.Comprar Smart TV
+
+
+9.Sino, si quiere una Tablet y tiene el dinero necesario:
+a.comprar Tablet
+
+10.Fin
+
+
+2. Cree un algoritmo que describa su rutina diaria. Use condiciones, condiciones multiples y ciclos.
+
+1.Inicio
+
+2.Me levanto
+
+3.Busco mi ropa
+
+3.Mientras no escoja ropa de mi agrado
+a.Sigo buscando ropa
+
+4.Si encuentro ropa de mi agrado y tengo listas mis pertenencias:
+a.Me baño
+
+5.Si transcurrieron 1o min bañandome y estoy totalmente limpio:
+a.Salgo del baño
+
+6.Sino, si estoy sucio:
+a.sigo en el baño hasta que este totalmente limpio
+
+7.Me alisto con mi ropa para ir a trabajar
+
+8.Enciendo la moto
+
+9.Si la moto tiene 5 minutos de encendida y el motor esta caliente:
+a.Dirigirme a la autopista
+
+10.Mientras que el motor de la moto no este totalmente caliente y si no han pasado 5 minutos:
+a.Seguir esperando con la moto encendida
+
+
+11. Tomar la ruta hacia el trabajo
+
+12. Marcar entrada:
+a.Trabajar
+b.Recibir Passdown
+c.Elaborar mi rutina de trabajo
+
+
+13. Despues de las 7 AM:
+a.Desayunar
+
+14.Despues de las 8 AM 
+a.Trabajar
+
+15.Despues de las 12:15 PM:
+a.Almorzar
+
+16.Despues de la 1 PM:
+a.Trabajar
+
+17.Despues de las 6 PM:
+a.Marcar Salida
+
+18.Irme a mi casa
+
+19.Cocinar y empacar comida
+
+20.Dormir
