@@ -24,9 +24,11 @@ import csv
 import os # Para verificar si el archivo existe
 
 # Define la ruta del archivo
-CSV_FILE_PATH = 'Semana 10/Student Control.csv'
+
 
 def operation_6_import_csv(students_dictionary):
+    
+    CSV_FILE_PATH = 'Semana 10/Student Control.csv'
     print('\nOperación 6: Importando datos desde CSV')
 
     # Verifica si el archivo existe antes de intentar abrirlo

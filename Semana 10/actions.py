@@ -122,12 +122,3 @@ def operation_4_average_students (students_dictionary):
             print (f'\nThe total average of all the students is {total_average}!')
         else:
             print('\nNo students with valid averages found to calculate the overall average.')
-
-        print ('\nThis is the average for each student:')
-
-        for i, student in enumerate(students, start=1):
-            print(f"\nStudent {i}:")
-            print(f"Name: {student.get('Name', 'N/A')}")
-            print(f"Section: {student.get('Section', 'N/A')}") 
-            if 'Average' in student:
-                print(f"Average: {student['Average']}")
